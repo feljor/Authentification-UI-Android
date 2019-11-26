@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Authentification</string>
+
+    <string-array name="liste_pays">
+        <item>Choissez un Pays</item>
+        <item>Congo-Kinshasa</item>
+        <item>Cameroun</item>
+        <item>Rwanda</item>
+        <item>Burundi</item>
+        <item>Congo-Brazza</item>
+        <item>Tanzanie</item>
+        <item>Tunisie</item>
+        <item>Egypte</item>
+    </string-array>
+</resources>
